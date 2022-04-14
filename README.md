@@ -1,0 +1,2 @@
+# Banglore-Home-Price-Prediction
+Built a model using sklearn and linear regression, written a python flask server that uses the saved model to serve http requests. Built website in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price. concepts covered such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc.
